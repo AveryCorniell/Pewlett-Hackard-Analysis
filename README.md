@@ -10,6 +10,9 @@ The purpose of this analysis is first to migrate Pewlett Hackard from its old wa
 
 There are seven categories of employee at Pewlett Hackard:
 
+![All Retiring](https://user-images.githubusercontent.com/83401820/127804978-dbecbb1f-d8ed-4a09-8d56-4856fc9f5675.png)
+
+
 90,398 are retiring
 Of those retiring:
 
@@ -28,6 +31,8 @@ There are 240,124 employees currently working at Pewlett Hackard. Of those, 38% 
 Pewlett Hackard, as indicated in the following diagram, stands to lose a large majority of its high level staff during this "silver tsunami."
 
 Another point to consider is the gender and racial mix. In order to stay in compliance with federal and some state laws, Pewlett Hackard must maintain a healthy ratio of minority employees. As it stands, Pewlett Hackard will be losing 15% of its female staff. There were no demographics given on race; so it was not considered for this analysis. As seen in the following diagram, each department will lose anywhere from 10% to nearly 20% of its female staff.
+
+![Staff](https://user-images.githubusercontent.com/83401820/127804962-ff1ab3b5-8add-4db3-8f1d-4e4a16c64d8c.png)
 
 In conclusion, Pewlett Hackard has to consider three things as it pertains to the staff replacement:
 
