@@ -27,7 +27,7 @@ There are 240,124 employees currently working at Pewlett Hackard. Of those, 38% 
 
 Pewlett Hackard, as indicated in the following diagram, stands to lose a large majority of its high level staff during this "silver tsunami."
 
-Another point to consider is the gender and racial mix. In order to stay in compliance with federal and some state laws, Pewlett Hackard must maintain a healthy ratio of minority employees. As it stands, Hewlett Packard will be losing 15% of its female staff. There were no demographics given on race; so it was not considered for this analysis. As seen in the following diagram, each department will lose anywhere from 10% to nearly 20% of its female staff.
+Another point to consider is the gender and racial mix. In order to stay in compliance with federal and some state laws, Pewlett Hackard must maintain a healthy ratio of minority employees. As it stands, Pewlett Hackard will be losing 15% of its female staff. There were no demographics given on race; so it was not considered for this analysis. As seen in the following diagram, each department will lose anywhere from 10% to nearly 20% of its female staff.
 
 In conclusion, Pewlett Hackard has to consider three things as it pertains to the staff replacement:
 
